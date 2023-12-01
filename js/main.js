@@ -18,5 +18,6 @@ function myFn() {
     elBtn.style.backgroundColor = "red";
     elBtn.style.border = "none";
     elP.style.color = "red";
+    elBtn.style.color = "white";
   }
 }
